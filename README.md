@@ -1,4 +1,10 @@
+## Student Information
 
+- *Name*: Mohamuud Muhiidin cabdullahi
+- *Class ID*: C1210601
+- *Class Name*: CA213
+
+---
 # Project Title: **Calculate Total Target**
 
 ## Description
